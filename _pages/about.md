@@ -1,13 +1,52 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+About me
+=====
+
+
+Hi, my name is Hoang-Anh Le (Lê Hoàng Anh in Vietnamese, 레황안 in Korean). I am a postdoctoral researcher at IBS Center for Quantum Nanoscience located at Ewha Womans University in Seoul, South Korea. 
+
+
+I obtained my PhD degree in condensed matter physics from Korea University in 2024, under the supervision of Professor Eric Yang Sung Ryul (양승열). My PhD work focuses on the charge fractionalization and topological order in zigzag graphene nanoribbons. 
+
+
+
+Employment
+=====
+
+**Mar. 2024 – Present** Postdoctoral Researcher, IBS Center for Quantum Nanoscience 
+
+**Nov. 2025 – Feb. 2026** Visiting Researcher, Max Planck Institute for the Physics of Complex Systems, Germany 
+
+**Sep. 2017 - Jun. 2018**	Physics teacher, Hanoi-Amsterdam High School for the gifted
+
+Education
+=====
+**Sep. 2018 – Feb. 2024** PhD in Theoretical Condensed Matter Physics, Korea University, South Korea
+
+**Sep. 2013 – Jun. 2017** BSc in Physics, Hanoi National University of Education (HNUE), Vietnam 
+
+Selected Prizes and Awards
+=====
+**2023**  Best poster award, Strongly Correlated Electron Systems Conference, Korea
+
+**2017**	Valedictorian of HNUE, Vietnam
+
+**2016, 2017**  Gold medals at National Physics Olympics (Vietnam) for undergraduate students
+
+Teaching
+=====
+**2019**			Experimental Physics (Korea University) 
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -53,4 +92,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
