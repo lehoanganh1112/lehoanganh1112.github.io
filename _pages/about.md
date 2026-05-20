@@ -20,29 +20,60 @@ I obtained my PhD degree in condensed matter physics from Korea University in 20
 Employment
 ===
 
-**Mar. 2024 – Present** Postdoctoral Researcher, IBS Center for Quantum Nanoscience 
-
-**Nov. 2025 – Feb. 2026** Visiting Researcher, Max Planck Institute for the Physics of Complex Systems, Germany 
-
-**Sep. 2017 - Jun. 2018**	Physics teacher, Hanoi-Amsterdam High School for the gifted
+<table style="width:100%; border:none; font-size: 1em;">
+  <tr>
+    <td style="width:20%; border:none;">2024 – Present</td>
+    <td style="width:35%; border:none;"><strong>Postdoctoral Researcher</strong></td>
+    <td style="width:45%; border:none;">IBS Center for Quantum Nanoscience, Korea</td>
+  </tr>
+  <tr>
+    <td style="border:none;">Nov. 2025 – Feb. 2026</td>
+    <td style="border:none;"><strong>Visiting Researcher</strong></td>
+    <td style="border:none;">Max Planck Institute for the Physics of Complex Systems, Germany</td>
+  </tr>
+  <tr>
+    <td style="border:none;">2017 – 2018</td>
+    <td style="border:none;"><strong>Physics Teacher</strong></td>
+    <td style="border:none;">Hanoi-Amsterdam High School for the gifted, Vietnam</td>
+  </tr>
+</table>
 
 Education
 =====
-**Sep. 2018 – Feb. 2024** PhD in Theoretical Condensed Matter Physics, Korea University, South Korea
 
-**Sep. 2013 – Jun. 2017** BSc in Physics, Hanoi National University of Education (HNUE), Vietnam 
+<table style="width:100%; border:none; font-size: 1em;">
+  <tr>
+    <td style="width:20%; border:none;">2018 – 2024</td>
+    <td style="width:35%; border:none;"><strong>PhD in Condensed Matter Physics</strong></td>
+    <td style="width:45%; border:none;">Korea University, Korea</td>
+  </tr>
+  <tr>
+    <td style="border:none;">2013 – 2017</td>
+    <td style="border:none;"><strong>BSc in Physics</strong></td>
+    <td style="border:none;">Hanoi National University of Education (HNUE), Vietnam </td>
+  </tr>
+</table>
+
 
 Selected Prizes and Awards
 =====
-**2023**  Best poster award, Strongly Correlated Electron Systems Conference, Korea
 
-**2017**	Valedictorian of HNUE, Vietnam
+<table style="width:100%; border:none; font-size: 1em;">
+  <tr>
+    <td style="width:20%; border:none;">2023</td>
+    <td style="width:80%; border:none;"><strong>Best poster award</strong>, Strongly Correlated Electron Systems Conference, Korea</td>
+  </tr>
+  <tr>
+    <td style="border:none;">2017</td>
+    <td style="border:none;"><strong>Valedictorian</strong> of HNUE, Vietnam </td>
+  </tr>
+   <tr>
+    <td style="border:none;">2016, 2017</td>
+    <td style="border:none;"> <strong>Gold medals at National Physics Olympics</strong>, Vietnam </td>
+  </tr>
+</table>
 
-**2016, 2017**  Gold medals at National Physics Olympics (Vietnam) for undergraduate students
 
-Teaching
-=====
-**2019**			Experimental Physics (Korea University) 
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
