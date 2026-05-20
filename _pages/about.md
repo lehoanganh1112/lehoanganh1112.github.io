@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 About me
-=====
-
+===
 
 Hi, my name is Hoang-Anh Le (Lê Hoàng Anh in Vietnamese, 레황안 in Korean). I am a postdoctoral researcher at IBS Center for Quantum Nanoscience located at Ewha Womans University in Seoul, South Korea. 
 
@@ -19,7 +18,7 @@ I obtained my PhD degree in condensed matter physics from Korea University in 20
 
 
 Employment
-=====
+===
 
 **Mar. 2024 – Present** Postdoctoral Researcher, IBS Center for Quantum Nanoscience 
 

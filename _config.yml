@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
   location         : "Seoul, South Korea"
-  employer         : "IBS Center for<br>Quantum[Nanoscience]("https://github.com/academicpages/academicpages.github.io")"
+  employer         : "IBS Center for<br>Quantum Nanoscience"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=dRNXrlkAAAAJ&view_op=list_works&sortby=pubdate"
   orcid            : "https://orcid.org/0000-0002-1668-8984"
   # uri              : "https://qns.science"
@@ -125,7 +125,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
