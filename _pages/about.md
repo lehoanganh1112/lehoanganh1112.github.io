@@ -10,10 +10,11 @@ redirect_from:
 <!-- About me -->
 <!-- === -->
 
-Hi, my name is Hoang-Anh Le (Lê Hoàng Anh in Vietnamese, 레황안 in Korean). I am a postdoctoral researcher at IBS Center for Quantum Nanoscience located at Ewha Womans University in Seoul, South Korea. 
+Hello, welcome to my homepage! My name is Hoang-Anh Le (Lê Hoàng Anh in Vietnamese, 레황안 in Korean).
+I am a postdoctoral researcher at IBS Center for Quantum Nanoscience located at Ewha Womans University in Seoul, South Korea. 
 
 
-I obtained my PhD degree in condensed matter physics from Korea University in 2024, under the supervision of Professor Eric Yang Sung Ryul (양승열). My PhD work focuses on the charge fractionalization and topological order in zigzag graphene nanoribbons. 
+<!-- I obtained my PhD degree in condensed matter physics from Korea University in 2024, under the supervision of Professor Eric Yang Sung Ryul (양승열). My PhD work focuses on the charge fractionalization and topological order in zigzag graphene nanoribbons.  -->
 
 
 
@@ -44,7 +45,9 @@ Education
 <table style="width:100%; border:none; font-size: 1em;">
   <tr>
     <td style="width:20%; border:none;">2018 – 2024</td>
-    <td style="width:40%; border:none;">PhD in Condensed Matter Physics</td>
+    <td style="width:40%; border:none;">PhD in Condensed Matter Physics <br> 
+    <em>Thesis: Exploring Topological Order of Zigzag Graphene Nanoribbons: Phase Diagram and Crossover Phases</em>
+    </td>
     <td style="width:45%; border:none;">Korea University, Korea</td>
   </tr>
   <tr>
