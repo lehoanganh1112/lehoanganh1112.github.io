@@ -10,8 +10,11 @@ redirect_from:
 <!-- About me -->
 <!-- === -->
 
-Hello, welcome to my homepage! My name is Hoang-Anh Le (Lê Hoàng Anh in Vietnamese, 레황안 in Korean).
-I am a postdoctoral researcher at IBS Center for Quantum Nanoscience located at Ewha Womans University in Seoul, South Korea. 
+Hello, welcome to my homepage! 
+
+My name is Hoang-Anh Le. I am a theorist with a research interest in topological phases of matter and quantum information of spins on surfaces. Please contact me if you want to collaborate or have any questions about my research. 
+
+<!-- I am a postdoctoral researcher at IBS Center for Quantum Nanoscience located at Ewha Womans University in Seoul, South Korea.  -->
 
 
 <!-- I obtained my PhD degree in condensed matter physics from Korea University in 2024, under the supervision of Professor Eric Yang Sung Ryul (양승열). My PhD work focuses on the charge fractionalization and topological order in zigzag graphene nanoribbons.  -->
@@ -25,7 +28,7 @@ Employment
   <tr>
     <td style="width:20%; border:none;">2024 – Present</td>
     <td style="width:40%; border:none;">Postdoctoral Researcher</td>
-    <td style="width:45%; border:none;">IBS Center for Quantum Nanoscience, Korea</td>
+    <td style="width:40%; border:none;">IBS Center for Quantum Nanoscience, Korea</td>
   </tr>
   <tr>
     <td style="border:none;">Nov. 2025 – Feb. 2026</td>
@@ -45,10 +48,14 @@ Education
 <table style="width:100%; border:none; font-size: 1em;">
   <tr>
     <td style="width:20%; border:none;">2018 – 2024</td>
-    <td style="width:40%; border:none;">PhD in Condensed Matter Physics <br> 
-    <em>Thesis: Exploring Topological Order of Zigzag Graphene Nanoribbons: Phase Diagram and Crossover Phases</em>
-    </td>
-    <td style="width:45%; border:none;">Korea University, Korea</td>
+    <td style="width:40%; border:none;">PhD in Condensed Matter Physics </td> 
+    <td style="width:40%; border:none;">Korea University, Korea</td>
+  </tr>
+  <tr> 
+    <td style="width:20%; border:none;"></td>
+    <td colspan="2" style="width:80%; border:none; font-size: 0.85em;"> 
+    <div style="margin-top: -15px;">
+    Thesis: <b><i>"Exploring Topological Order of Zigzag Graphene Nanoribbons: Phase Diagram and Crossover Phases"</i></b> </div> </td>
   </tr>
   <tr>
     <td style="border:none;">2013 – 2017</td>
