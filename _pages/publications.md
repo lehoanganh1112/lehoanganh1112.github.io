@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Journal Articles
 &dagger; indicates my contribution as a co-first author
-### <span style="color:blue;">At IBS-QNS</span>
+### <span style="color: var(--my-custom-blue);">At IBS-QNS</span>
 
 ***Overcoming limitations on gate fidelity in noisy static exchange-coupled surface qubits***<br>
 **Hoang-Anh Le**, Saba Taherpour, Denis Jankovic and Christoph Wolf, [*npj Quantum Inf* **12**, 69 (2026)](https://doi.org/10.1038/s41534-026-01214-1)
@@ -20,7 +20,7 @@ Jose Reina-Gálvez, **Hoang-Anh Le**&dagger;, Hong Thi Bui, Soo-hyon Phark, Nico
 ***Instantons and topological order in two-leg electron ladders: A universality class***<br>
 S.-R. Eric Yang, Hyun Cheol Lee, **Hoang-Anh Le** and In-Hwan Lee, [*Phys. Rev. B* **111**, 205144 (2025)](https://doi.org/10.1103/PhysRevB.111.205144) [[arXiv]](https://doi.org/10.48550/arXiv.2505.24130)
 
-### <span style="color:blue;">At Korea University</span>
+### <span style="color: var(--my-custom-blue);">At Korea University</span>
 
 ***Anomalous induced density of supercritical Coulomb impurities in graphene under strong magnetic fields***<br>
 **Hoang-Anh Le** and S.-R. Eric Yang, [*Phys. Rev. B* **110**, 085156 (2024)](https://doi.org/10.1103/PhysRevB.110.085156) [[arXiv]](https://doi.org/10.48550/arXiv.2408.16217)

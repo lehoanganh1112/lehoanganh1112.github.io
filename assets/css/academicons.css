@@ -569,3 +569,11 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+:root {
+  --my-custom-blue: #0022ff; /* Readable blue for light mode */
+}
+
+[data-theme="dark"] {
+  --my-custom-blue: #8ab4f8; /* Soft blue for dark mode */
+}

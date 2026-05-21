@@ -4,7 +4,7 @@ title: "Talks and Presentation"
 permalink: /talks/
 author_profile: false
 ---
-## <span style="color:blue;">Conferences/Workshops</span>
+## <span style="color: var(--my-custom-blue);">Conferences/Workshops</span>
 
 <ol reversed>
 
@@ -29,7 +29,7 @@ author_profile: false
 <li> <strong>Phase diagram and crossover phases of topologically ordered graphene zigzag nanoribbons</strong> (Poster) SCES, Incheon, Korea, 07/2023  </li>
 </ol>
 
-## <span style="color:blue;">Seminars</span>
+## <span style="color: var(--my-custom-blue);">Seminars</span>
 
 <ol reversed>
 
