@@ -2,7 +2,7 @@
 layout: single
 title: "Talks and Presentation"
 permalink: /talks/
-author_profile: false
+author_profile: true
 ---
 ## <span style="color: var(--my-custom-blue);">Conferences/Workshops</span>
 
