@@ -17,13 +17,13 @@ headers = {"Authorization": f"Bearer {API_KEY}"}
 total_url = f"https://{SITE}.goatcounter.com/api/v0/stats/total"
 response = requests.get(total_url, headers=headers)
 response.raise_for_status()
-total_visits = response.json().get("count", 0)
+total_visits = response.json().get("total", 0)
 
-response = requests.get(total_url, headers=headers)
-response.raise_for_status()
-total_data = response.json()
-print("Total API response:", total_data)  # <-- add this
-total_visits = total_data.get("count", 0)
+# response = requests.get(total_url, headers=headers)
+# response.raise_for_status()
+# total_data = response.json()
+# print("Total API response:", total_data)  # <-- add this
+# total_visits = total_data.get("count", 0)
 
 # -------------------------
 # FETCH TOP PAGE
@@ -35,7 +35,7 @@ try:
     response.raise_for_status()
     hits = response.json().get("hits", [])
     if hits:
-        top = max(hits, key=lambda x: x.get("count", 0))
+        top = max(hits, key=lambda x: x.get("total", 0))
         top_page = top.get("path", "").strip("/").replace("-", " ").title()
 except Exception as e:
     print("Top page unavailable:", e)
@@ -50,7 +50,7 @@ try:
     url = f"https://{SITE}.goatcounter.com/api/v0/stats/total?start={start}&end={end}"
     response = requests.get(url, headers=headers)
     response.raise_for_status()
-    monthly = response.json().get("count", 0)
+    monthly = response.json().get("total", 0)
 except Exception as e:
     print("Monthly stats unavailable:", e)
 
