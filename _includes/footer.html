@@ -29,4 +29,12 @@
 <div class="page__footer-copyright" id="myvisitor">
 Visitors map <br>
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=vMY6OGJtQdKx60WNGu1bN-WRUpi715JOKbD2rRjWKpo&cl=ffffff&w=a"></script>
+
+🌍 Visitors: {{ site.data.visitor_stats.total }}
+<br>
+
+{% for c in site.data.visitor_stats.countries %}
+  {{ c.flag }} {{ c.percent }}%
+{% endfor %}
+
 </div>
