@@ -42,49 +42,6 @@ total_visits = total_data.get("count", 0)
 # FETCH COUNTRY STATS
 # -------------------------
 
-# country_url = f"https://{SITE}.goatcounter.com/api/v0/stats/locations"
-
-# params = {
-#     "by": "country"
-# }
-
-# top_countries = []
-
-# try:
-#     response = requests.get(
-#         country_url,
-#         headers=headers,
-#         params=params
-#     )
-#     response.raise_for_status()
-
-#     country_data = response.json()
-
-#     hits = country_data.get("hits", [])
-
-#     total_country_hits = sum(h.get("count", 0) for h in hits)
-
-#     for h in sorted(
-#         hits,
-#         key=lambda x: x.get("count", 0),
-#         reverse=True
-#     )[:3]:
-
-#         code = h.get("country", "")
-#         count = h.get("count", 0)
-
-#         percent = (
-#             round(100 * count / total_country_hits)
-#             if total_country_hits > 0 else 0
-#         )
-
-#         top_countries.append({
-#             "flag": country_to_flag(code),
-#             "country": code,
-#             "percent": percent
-#         })
-
-
 country_url = f"https://{SITE}.goatcounter.com/api/v0/stats/locations"
 
 top_countries = []
@@ -99,13 +56,74 @@ try:
 
     )
 
-    print("Status:", response.status_code)
+    response.raise_for_status()
 
-    print("URL:", response.url)
+    country_data = response.json()
 
-    print("Response:")
+    hits = country_data.get("stats", [])
 
-    print(response.text[:3000])
+    total_country_hits = sum(
+
+        h.get("count", 0)
+
+        for h in hits
+
+    )
+
+    for h in sorted(
+
+        hits,
+
+        key=lambda x: x.get("count", 0),
+
+        reverse=True
+
+    )[:3]:
+
+        code = h.get("id", "")   # KR, US, JP
+
+        count = h.get("count", 0)
+
+        percent = (
+
+            round(100 * count / total_country_hits)
+
+            if total_country_hits > 0 else 0
+
+        )
+
+        top_countries.append({
+
+            "flag": country_to_flag(code),
+
+            "country": h.get("name", code),
+
+            "percent": percent
+
+        })
+
+
+# country_url = f"https://{SITE}.goatcounter.com/api/v0/stats/locations"
+
+# top_countries = []
+
+# try:
+
+#     response = requests.get(
+
+#         country_url,
+
+#         headers=headers
+
+#     )
+
+#     print("Status:", response.status_code)
+
+#     print("URL:", response.url)
+
+#     print("Response:")
+
+#     print(response.text[:3000])
 
 except Exception as e:
     print("Country stats unavailable:", e)
