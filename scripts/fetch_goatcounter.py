@@ -94,7 +94,7 @@ try:
 
         top_countries.append({
 
-            "flag": country_to_flag(code),
+            # "flag": country_to_flag(code),
 
             "country": h.get("name", code),
 
