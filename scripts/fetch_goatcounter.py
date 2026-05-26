@@ -44,7 +44,7 @@ total_visits = total_data.get("count", 0)
 country_url = f"https://{SITE}.goatcounter.com/api/v0/stats/hits"
 
 params = {
-    "group_by": "country"
+    "by": "country"
 }
 
 top_countries = []
