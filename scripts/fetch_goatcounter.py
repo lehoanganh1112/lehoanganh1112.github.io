@@ -115,7 +115,7 @@ headers = {
 }
 
 # Use the stats endpoint
-url = f"https://{SITE}.goatcounter.com/api/v0/stats"
+url = f"https://{SITE}.goatcounter.com/api/v0/stats/total"
 
 response = requests.get(url, headers=headers)
 
