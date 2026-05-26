@@ -36,8 +36,17 @@ try:
     response.raise_for_status()
     hits = response.json().get("hits", [])
     if hits:
-        top = max(hits, key=lambda x: x.get("total", 0))
-        top_page = top.get("path", "").strip("/").replace("-", " ").title()
+        top = max(hits, key=lambda x: x.get("count", 0))
+        path = top.get("path", "").strip("/")
+
+        # Map known paths to friendly names
+        path_names = {
+            "": "About",
+            "teaching": "Teaching",
+            "year-archive": "Blog Posts",
+        }
+
+        top_page = path_names.get(path, path.replace("-", " ").title())
 except Exception as e:
     print("Top page unavailable:", e)
 
