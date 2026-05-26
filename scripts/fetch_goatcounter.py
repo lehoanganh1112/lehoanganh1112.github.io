@@ -19,6 +19,12 @@ response = requests.get(total_url, headers=headers)
 response.raise_for_status()
 total_visits = response.json().get("count", 0)
 
+response = requests.get(total_url, headers=headers)
+response.raise_for_status()
+total_data = response.json()
+print("Total API response:", total_data)  # <-- add this
+total_visits = total_data.get("count", 0)
+
 # -------------------------
 # FETCH TOP PAGE
 # -------------------------
