@@ -16,5 +16,7 @@ Teaching
   {% include archive-single.html %}
 {% endfor %}
 
-
-
+Notes collections
+======
+[MPS and DMRG.](/files/Implementation_DMRG_ZGNR.pdf)
+[Hofstadter's butterfly.](/files/Hofstadter_derivation.pdf)
