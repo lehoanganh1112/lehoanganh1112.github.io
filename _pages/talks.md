@@ -26,7 +26,7 @@ author_profile: true
 
 <li> <strong>Phase diagram and crossover phases of topologically ordered graphene zigzag nanoribbons</strong> (Poster) Conference of Computational Physics, Kobe, Japan, 08/2023 </li>
 
-<li> <strong>Phase diagram and crossover phases of topologically ordered graphene zigzag nanoribbons</strong> ([Poster]((/files/1.poster_sces2023.pdf))) SCES, Incheon, Korea, 07/2023  </li>
+<li> <strong>Phase diagram and crossover phases of topologically ordered graphene zigzag nanoribbons</strong> <a href="/files/1.poster_sces2023.pdf" target="_blank">(Poster)</a> SCES, Incheon, Korea, 07/2023  </li>
 </ol>
 
 ## <span style="color: var(--my-custom-blue);">Seminars</span>
