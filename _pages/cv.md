@@ -1,64 +1,89 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
+
+Name: Hoang-Anh Le (Lê Hoàng Anh)
+
+Currently a postdoctoral researcher at the [IBS Center for Quantum Nanoscience](https://qns.science), Institute for Basic Science (IBS) and Ewha Womans University, Seoul 03760, Republic of Korea.
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+=====
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<table style="width:100%; border:none; font-size: 1em;">
+  <tr>
+    <td style="width:20%; border:none;">2018 – 2024</td>
+    <td style="width:40%; border:none;">PhD in Condensed Matter Physics </td> 
+    <td style="width:40%; border:none;">Korea University, Korea</td>
+  </tr>
+  <tr> 
+    <td style="width:20%; border:none;"></td>
+    <td colspan="2" style="width:80%; border:none; font-size: 0.85em;"> 
+    <div style="margin-top: -15px;">
+    Thesis: <b><i>"Exploring Topological Order of Zigzag Graphene Nanoribbons: Phase Diagram and Crossover Phases"</i></b> </div> </td>
+  </tr>
+  <tr>
+    <td style="border:none;">2013 – 2017</td>
+    <td style="border:none;">BSc in Physics 
+    <br> <div style="font-size: 0.85em;"><b><i>Graduated with Valedictorian honor</i></b></div>
+    </td>
+    <td style="border:none;">Hanoi National University of Education (HNUE), Vietnam </td>
+  </tr>
+</table>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Employment
+=====
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<table style="width:100%; border:none; font-size: 1em;">
+  <tr>
+    <td style="width:20%; border:none;">2024 – Present</td>
+    <td style="width:40%; border:none;">Postdoctoral Researcher</td>
+    <td style="width:40%; border:none;">IBS Center for Quantum Nanoscience, Korea</td>
+  </tr>
+  <tr>
+    <td style="border:none;">Nov. 2025 – Feb. 2026</td>
+    <td style="border:none;">Visiting Researcher</td>
+    <td style="border:none;">Max Planck Institute for the Physics of Complex Systems, Germany</td>
+  </tr>
+  <tr>
+    <td style="border:none;">2017 – 2018</td>
+    <td style="border:none;">Physics Teacher</td>
+    <td style="border:none;">Hanoi-Amsterdam High School for the gifted, Vietnam</td>
+  </tr>
+</table>
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Publications and Talks
+=====
+Full list of [pulications](/publications/) and [talks](/talks/)
+
+Selected Prizes and Awards
+=====
+
+<table style="width:100%; border:none; font-size: 1em;">
+  <tr>
+    <td style="width:20%; border:none;">2023</td>
+    <td style="width:80%; border:none;"><strong>Best Poster Award</strong>, Strongly Correlated Electron Systems, Korea</td>
+  </tr>
+  <tr>
+    <td style="border:none;">2017</td>
+    <td style="border:none;"><strong>Valedictorian</strong> of HNUE, Vietnam </td>
+  </tr>
+   <tr>
+    <td style="border:none;">2016, 2017</td>
+    <td style="border:none;"> <strong>Gold medals at National Physics Olympics</strong>, Vietnam </td>
+  </tr>
+</table>
+
+Languagues
+=====
+English (fluent), Korean (fluent) and Vietnamese (mother tongue)
+
+
+
