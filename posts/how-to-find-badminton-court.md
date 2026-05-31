@@ -19,7 +19,7 @@ There are quite many public badminton courts in Korea, especially in Seoul where
 Here are some public badminton gyms that I have visited in Seoul:
 - [Youngdeungpo Multi-purpose Gym](https://maps.app.goo.gl/TJ2hZkNUwJtnmC7m6)
 <p align="center">
-  <img src="/images/badminton/ydp-gym.heic" alt="Youngdeungpo Multi-purpose Gym" width="300">
+  <img src="/images/badminton/ydp-gym.jpeg" alt="Youngdeungpo Multi-purpose Gym" width="300">
   <br>
   Youngdeungpo Multi-purpose Gym.
 </p>
@@ -48,7 +48,7 @@ Here are some public badminton gyms that I have visited in Seoul:
 As a foreigner living in Korea for a long time, I have also joined a local badminton club. I found this club through [this Naver site](https://blog.naver.com/booboo7/222782626286). Its name is Sky Badminton Club and we are based in [Ahyeon Elementary School](https://maps.app.goo.gl/Db9nSiJhrKkHYQW68). It is quite common in Korea that almost every elementary/middle/high school has a badminton gymnasium and local badminton clubs will rent the gymnasium. I have never seen any school whose gymnasium is not rented by any badminton club so far! It is quite strict to invite a guest to join a session in the club. My club only allows 4 guests per session and the invitation has to be sent by a club member. The fee for each guest is 4000 KRW per session. The guest has to respect the club rules and the club members: no smoking, no alcohol (because the club is based in a school), bring your own shuttlecocks and rackets, wearing badminton shoes, etc. That is why I mentioned in the very beginning of this post that it is quite difficult to find a place to play badminton in Korea if you don't know any locals to ask!
 
 <p align="center">
-  <img src="/images/badminton/jeju-club.heic" alt="A badminton club I found in Jeju island" width="300">
+  <img src="/images/badminton/jeju-club.jpeg" alt="A badminton club I found in Jeju island" width="300">
   <br>
   A badminton club I found in Jeju island.
 </p>
