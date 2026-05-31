@@ -1,8 +1,9 @@
 ---
 title: 'Giải Nobel Vật lí 2025 và Máy Tính Lượng Tử'
 date: 2025-10-08
-permalink: /posts/2025/10/blog-post-1/
+permalink: /blog-posts/Nobel-2025/
 layout: single
+author_profile: false
 tags:
   - Nobel Prize in physics
   - Josephson junction
@@ -10,9 +11,11 @@ tags:
 ---
 
 <p align="center">
-  <img src="/images/blogs/blog1_1.jpg" alt="Nobel Vật Lí 2025" width="300">
+  <img src="/images/blogs/blog1_1.jpg" width="300">
+  <br>
+  Ba nhà khoa học đoạt giải Nobel Vật lý 2025.
 </p>
-<!-- /usr/src/app/images/blogs/blog1_1.jpg -->
+
 
 Cách đây ít giờ, Giải Nobel Vật lí 2025 đã vinh danh ba nhà khoa học John Clarke, Michel H. Devoret và John Martinis vì ***khám phá ra hiện tượng xuyên hầm lượng tử vĩ mô và lượng tử hoá năng lượng trong mạch điện***. Thoạt nghe thì có vẻ kết quả này không liên quan trực tiếp đến máy tính lượng tử, nhưng thực ra chính khám phá này đã đặt nền móng cho việc chế tạo bit lượng tử (qubit), những “viên gạch” nhỏ nhất để xây dựng máy tính lượng tử hiện đại.
 
@@ -42,5 +45,4 @@ Mình tin là Nobel năm 2022 cho rối lượng tử và Nobel 2025 cho hiệu 
 [3] Cavity quantum electrodynamics for superconducting electrical circuits: An architecture for quantum computation, Alexandre Blais et al., Phys. Rev. A 69, 062320 (2004)<br>
 [4] An atomic-scale multi-qubit platform, Yu Wang et al., Science 382, 666 (2023).
 
-<!-- Hình 1 lấy từ FB của Nobel Prize <br>
-Hình 2 mình vẽ dựa trên minh hoạ từ Uỷ ban Nobel -->
+*Written on {{ page.date | date: "%B %d, %Y" }}*
