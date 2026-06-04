@@ -15,7 +15,10 @@ headers = {"Authorization": f"Bearer {API_KEY}"}
 # FETCH TOTAL VISITS
 # -------------------------
 total_url = f"https://{SITE}.goatcounter.com/api/v0/stats/total"
-response = requests.get(total_url, headers=headers)
+params = {
+    "start": "2026-05-19",  # Far enough back to capture everything
+}
+response = requests.get(total_url, headers=headers, params=params)
 response.raise_for_status()
 total_visits = response.json().get("total", 0)
 total_data = response.json()
@@ -53,19 +56,18 @@ except Exception as e:
 # -------------------------
 # FETCH LAST 30 DAYS
 # -------------------------
-# monthly = 0
-# try:
-#     end = datetime.utcnow().strftime("%Y-%m-%d")
-#     start = (datetime.utcnow() - timedelta(days=30)).strftime("%Y-%m-%d")
-#     url = f"https://{SITE}.goatcounter.com/api/v0/stats/total?start={start}&end={end}"
-#     response = requests.get(url, headers=headers)
-#     response.raise_for_status()
-#     monthly = response.json().get("total", 0)
-# except Exception as e:
-#     print("Monthly stats unavailable:", e)
+monthly = 0
+try:
+    end = datetime.now().strftime("%Y-%m-%d")
+    start = (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d")
+    url = f"https://{SITE}.goatcounter.com/api/v0/stats/total?start={start}&end={end}"
+    response = requests.get(url, headers=headers)
+    response.raise_for_status()
+    monthly = response.json().get("total", 0)
+except Exception as e:
+    print("Monthly stats unavailable:", e)
 
 total_visits = total_data.get("total", 0)
-monthly = sum(s.get("monthly", 0) for s in total_data.get("stats", []))
 
 # -------------------------
 # SAVE JSON
