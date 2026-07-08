@@ -9,7 +9,7 @@ author_profile: true
 ### <span style="color: var(--my-custom-blue);">At IBS-QNS</span>
 
 ***Theory of electron spin resonance scanning tunneling microscopy: the first decade***<br>
-Saba Taherpour, Denis Janković, Jose Reina-Galvez, **Hoang-Anh Le*** and Christoph Wolf, [J. Phys.: Condens. Matter **38** 243003 (2026)](https://doi.org/10.1088/1361-648X/ae76a6)
+Saba Taherpour, Denis Janković, Jose Reina-Galvez, **Hoang-Anh Le*** and Christoph Wolf, [J. Phys.: Condens. Matter **38** 243003 (2026)](https://doi.org/10.1088/1361-648X/ae76a6) [[arXiv]](https://doi.org/10.48550/arXiv.2606.27830)
 
 ***Overcoming limitations on gate fidelity in noisy static exchange-coupled surface qubits***<br>
 **Hoang-Anh Le**, Saba Taherpour, Denis Jankovic and Christoph Wolf, [*npj Quantum Inf* **12**, 69 (2026)](https://doi.org/10.1038/s41534-026-01214-1)
