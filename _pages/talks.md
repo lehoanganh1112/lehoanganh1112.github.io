@@ -8,6 +8,9 @@ author_profile: true
 
 <ol reversed>
 
+<li> <strong>Emergent geometry from the entanglement of
+fractional charges of zigzag graphene nanoribbon</strong> (Poster) Workshop on Emergent Phenomena in Quantum Matter: From Symmetry to Dynamics, Yukawa Institute for Theoretical Physics, Kyoto University, Japan, 7/2026 </li>
+
 <li> <strong>Floquet engineering of exchange interactions of triangulene spin chains</strong>, KPS Spring Meeting, Daejeon, Korea, 4/2026 </li>
 
 <li> <strong>Quantum Entanglement of Anyonic Charges and Emergent Spacetime Geometry</strong>, APS March Meeting, Denver, CO, USA, 3/2026 </li>
