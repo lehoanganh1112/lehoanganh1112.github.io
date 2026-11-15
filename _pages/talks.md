@@ -8,6 +8,8 @@ author_profile: true
 
 <ol reversed>
 
+<li> <strong>Floquet engineering of exchange and spin chirality in triangulene spin chains</strong> (Poster), IBS Quantum Frontier 2026, Gwangju, Korea, 11/2026 </li>
+
 <li> <strong>Emergent geometry from the entanglement of
 fractional charges of zigzag graphene nanoribbon</strong> (Poster) Workshop on Emergent Phenomena in Quantum Matter: From Symmetry to Dynamics, Yukawa Institute for Theoretical Physics, Kyoto University, Japan, 7/2026 </li>
 
